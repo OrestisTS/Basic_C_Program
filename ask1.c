@@ -1,5 +1,3 @@
-ask1.c
-
 #include <stdio.h>
 int main()
 {
@@ -15,4 +13,3 @@ int main()
 	printf ("To apotelesma einai:%d", x);
 	return 0;	
 }
-
